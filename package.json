@@ -1,0 +1,20 @@
+{
+  "name": "xhr-plugin-usage-example",
+  "version": "0.1.0",
+  "description": "The sample protractor project that uses protractor-xhr-interceptor-plugin",
+  "scripts": {
+    "protractor": "protractor",
+    "test": "protractor",
+    "webdriver-manager": "webdriver-manager",
+    "webdriver-update": "webdriver-manager update"
+  },
+  "author": "artemr2009@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jasmine": "^3.6.2",
+    "protractor": "^7.0.0",
+    "protractor-xhr-interceptor-plugin": "^0.1.1",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  }
+}
